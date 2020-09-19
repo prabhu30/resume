@@ -27,19 +27,19 @@ section{
 
 p{
 	text-align: center;
-	margin: 50px 10px 50px 10px;
+	margin: 15%;
 }
 
 img.icon{
-	display: inline-flex;
+	display: inline-block;
 	width: 35px;
 	height: 35px;
-	margin: 25px 25px 25px 25px;
+	margin: 10%;
 }
 
 img.favimg{
-	height: 200px;
-	width: 200px;
+	height: auto;
+	width: 70%;
 	margin: auto;
 	padding: 15px;
 	display: block;
@@ -61,11 +61,14 @@ img.favimg{
 	}
 
 	p{
+		text-align: center;
+		margin: 15%;
 		font-size: 20px;
 	}
 
 	img.icon{
-		margin: 10px 40px 10px 40px;
+		display: inline-block;
+		margin: 10%;
 	}
 }
 
@@ -85,10 +88,13 @@ img.favimg{
 	}
 
 	p{
+		text-align: center;
+		margin: 15%;
 		font-size: 20px;
 	}
 
 	img.icon{
-		margin: 10px 40px 10px 40px;
+		display: inline-block;
+		margin: 10%;
 	}
 }
