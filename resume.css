@@ -1,0 +1,23 @@
+#msec{
+	border: 1px solid black;
+	height: 100%;
+	display: flex;
+}
+
+#fsec{
+	border: 1px solid black;
+	margin: 5px;
+	width: 20%;
+}
+
+#ssec{
+	border: 1px solid black;
+	margin: 5px;
+	width: 80%;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+	margin: 30px 30px 30px 30px;
+}
