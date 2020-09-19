@@ -28,6 +28,7 @@ section{
 p{
 	text-align: center;
 	margin: 15%;
+	font-size: 100%;
 }
 
 img.icon{
@@ -63,7 +64,6 @@ img.favimg{
 	p{
 		text-align: center;
 		margin: 15%;
-		font-size: 20px;
 	}
 
 	img.icon{
@@ -90,7 +90,6 @@ img.favimg{
 	p{
 		text-align: center;
 		margin: 15%;
-		font-size: 20px;
 	}
 
 	img.icon{
